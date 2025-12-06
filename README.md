@@ -3,9 +3,8 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer  • Backend (Java) Learner • Data Science Enthusiast • Tech Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=Hello+World!;I+am+Sakshi+Hanwat;Aspiring+Full+Stack+Developer;Java+Backend+Developer;Tech+Learner+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=Hello+World!;I+am+Sakshi+Building+Digital+Dreams+🌐;Aspiring+Full+Stack+Developer;Java+Backend+Developer;Tech+Learner+%26+Problem+Solver" />
 </p>
-
 
 ---
 
