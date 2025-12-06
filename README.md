@@ -133,5 +133,7 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 </p>
 
 ---
+<p align="center">
+  ⭐ **Thanks for visiting my profile!**
+</p>
 
-⭐ **Thanks for visiting my profile!**
