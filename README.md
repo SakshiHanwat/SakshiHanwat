@@ -58,8 +58,6 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 ## 🛠️ Tech Stack
 
----
-
 ### 🧩 Languages & Databases  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
