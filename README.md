@@ -2,7 +2,6 @@
 
 <h3 align="center">🚀 Aspiring Full-Stack Developer  • Backend (Java) Learner • Data Science Enthusiast • Tech Explorer </h3>
 
-<br/>
 ---
 
 ## 🚀 About Me  
