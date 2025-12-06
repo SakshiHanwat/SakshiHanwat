@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/iam.sakshiii74/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:hanwats610@gmail.com">
+  <a href="mailto:sakshihanwat53@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sakshi-hanwat-b4722b254/">
