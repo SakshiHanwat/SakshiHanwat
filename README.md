@@ -77,23 +77,29 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 ---
 
-## 📌 Projects (Add When Ready)
-- 🔹 Portfolio Website (HTML/CSS/JS)  
-- 🔹 Student Management System (Java + MySQL)  
-- 🔹 Weather App (API Project)  
-- 🔹 Data Visualization Project (Python)  
-- 🔹 Spring Boot To-Do / Blog API  
-
----
-
 ## 📊 GitHub Analytics  
+
+### 🔥 Streak & Contributions Matrix
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshiHanwat&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiHanwat&layout=compact&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakshi-hanwat&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+### 📚 Language Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshi-hanwat&theme=radical" height="180" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshi-hanwat&theme=radical" height="180" alt="Top Languages by Commit"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-hanwat&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiHanwat&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=sakshi-hanwat&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
