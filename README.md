@@ -1,6 +1,8 @@
-<h1 align="center">Hello 👋, I'm Sakshi Hanwat</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Backend (Java) Learner | Data Science Enthusiast</h3>
+<h1 align="center">Hello 👋, I'm <span style="color:#58a6ff;">SAKSHI HANWAT</span></h1>
 
+<h3 align="center">🚀 Aspiring Full-Stack Developer  • Backend (Java) Learner • Data Science Enthusiast • Tech Explorer </h3>
+
+<br/>
 ---
 
 ## 🚀 About Me  
