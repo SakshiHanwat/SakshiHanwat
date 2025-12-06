@@ -10,8 +10,27 @@
   <img src="https://tse1.mm.bing.net/th/id/OIP.kriew0jplAPX4t197LZOxQHaHa?cb=ucfimg2&ucfimg=1&w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3" width="550" alt="coding animation"/>
 </p>
 
+---
+
+## 🌐 How to Reach Me
+
+<p align="center">
+  <a href="https://www.instagram.com/iam.sakshiii74/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:hanwats610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sakshi-hanwat-b4722b254/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SakshiHanwat">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
 
 ## 🚀 About Me  
 I'm a passionate developer from India who enjoys building web applications, exploring backend engineering, and improving problem-solving skills.  
@@ -30,10 +49,19 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 ---
 
+## 📚 Currently Learning
+- 🌱 Spring Boot  
+- 🌱 REST APIs & Backend Architecture  
+- 🌱 DSA in Java  
+- 🌱 React (Deep Dive)
+
+---
+
+
 ## 🛠️ Tech Stack
 
 ### 🌐 **Frontend**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,19 +69,19 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 </p>
 
 ### ⚙️ **Backend**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 </p>
 
 ### 🗄️ **Database**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 📊 **Data Science & Big Data**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -61,19 +89,11 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 </p>
 
 ### 🛠️ **Tools**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
-
-## 📚 Currently Learning
-- 🌱 Spring Boot  
-- 🌱 REST APIs & Backend Architecture  
-- 🌱 DSA in Java  
-- 🌱 React (Deep Dive)
 
 ---
 
@@ -104,25 +124,6 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SakshiHanwat&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-## 🌐 How to Reach Me
-
-<p align="center">
-  <a href="https://www.instagram.com/iam.sakshiii74/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:hanwats610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sakshi-hanwat-b4722b254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/SakshiHanwat">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 ---
