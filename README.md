@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer  • Backend (Java) Learner • Data Science Enthusiast • Tech Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=22&duration=2400&pause=900&color=8BE9FD&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Java+Backend+Developer;Data+Science+%26+Big+Data+Learner;Learning+DSA+Daily;Building+Real+World+Projects;Exploring+Tech+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2100&pause=900&color=00C2FF&center=true&vCenter=true&width=750&lines=Java+Developer;Data+Science+%26+Big+Data;Learning+DSA+%26+Building+Projects;Exploring+New+Technologies" />
 </p>
 
 
