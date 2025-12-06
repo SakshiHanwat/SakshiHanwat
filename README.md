@@ -18,9 +18,10 @@
   <a href="https://www.instagram.com/iam.sakshiii74/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:sakshihanwat53@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sakshihanwat53@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+</a>
+
   <a href="https://www.linkedin.com/in/sakshi-hanwat-b4722b254/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
