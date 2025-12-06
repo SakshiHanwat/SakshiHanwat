@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=Hello+World!;I+am+Sakshi+Building+Digital+Dreams;Aspiring+Full+Stack+Developer;Java+Backend+Developer+In+Making;Tech+Learner+%26+Problem+Solver" />
 </p>
 
+<p align="center">
+  <img src="https://tse1.mm.bing.net/th/id/OIP.kriew0jplAPX4t197LZOxQHaHa?cb=ucfimg2&ucfimg=1&w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3" width="550" alt="coding animation"/>
+</p>
+
 
 ---
 
