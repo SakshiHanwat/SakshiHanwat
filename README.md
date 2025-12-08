@@ -105,32 +105,12 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 ## 📊 GitHub Analytics
 
-### 🔥 Streak & Contributions Matrix
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SakshiHanwat&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
----
-
-### 📚 Language Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakshiHanwat&theme=radical" height="180" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakshiHanwat&theme=radical" height="180" alt="Top Languages by Commit"/>
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiHanwat&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SakshiHanwat&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
+🔥 Streak & Contributions Matrix
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=SakshiHanwat&theme=radical&hide_border=true" alt="GitHub Streak Stats"/> </p>
+📚 Language Overview
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakshiHanwat&theme=radical" height="180" alt="Top Languages by Repo"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakshiHanwat&theme=radical" height="180" alt="Top Languages by Commit"/> </p>
+📈 Contribution Activity (WORKING UPDATED DOMAIN)
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiHanwat&theme=react-dark&hide_border=true" alt="Contribution Graph"/> </p>
 
 ---
 <p align="center">
