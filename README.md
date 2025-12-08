@@ -126,7 +126,8 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiHanwat&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>what issue in this actuallly its not showing correctly in my github page why plz describe ??
+</p>
+
 ---
 <p align="center">
   ⭐ Thanks for visiting my profile!
