@@ -108,7 +108,7 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 ### 🔥 Streak & Contributions Matrix
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshiHanwat&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=SakshiHanwat&theme=radical&hide_border=true&timestamp=1" />
 </p>
 
 ---
