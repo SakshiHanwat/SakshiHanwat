@@ -128,6 +128,11 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiHanwat&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SakshiHanwat&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+
 ---
 <p align="center">
   ⭐ Thanks for visiting my profile!
