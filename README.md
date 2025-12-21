@@ -134,7 +134,5 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
