@@ -107,7 +107,9 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 
 ### 🔥 Github Stats
 
-<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiHanwat&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiHanwat&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
 ---
 
