@@ -119,6 +119,10 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakshiHanwat&theme=radical" height="180" alt="Top Languages by Commit"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanwats610-star&show_icons=true&theme=tokyonight"/>
+</p>
+
 ---
 
 ### 📈 Contribution Activity
@@ -130,9 +134,7 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SakshiHanwat&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanwats610-star&show_icons=true&theme=tokyonight"/>
-</p>
+
 ---
 
 ![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
