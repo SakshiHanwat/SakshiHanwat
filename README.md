@@ -3,8 +3,9 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer  • Backend (Java) Learner • AI/ML and Devops Enthusiast • Tech Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.cfont=Fira+Code&weight=600&size=23&duration=2000&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=Hello+World!;I+am+Sakshi+Building+Digital+Dreams;Aspiring+Full+Stack+Developer;Java+Backend+Developer+In+Making;Tech+Learner+%26+Problem+Solver" />
+    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://images.openai.com/static-rsc-4/1yEjcNwK4nAjZegYcS8xtrioDmS-jgwespMzyCX0Eh9dHfX39P6G1xIGHmOCBxM8jEBnGNmJtIFPKGMd_GqH3k7RwMrML1FTly7i5vIRf5kaXk6a3W8duF4xBL2XGvygYLVdEy5VYxiYSkz9zC_YCXLiDzCLTmvhyWroh6Ap298wOVaE_-0XEnS9XPUL16_I?purpose=fullsize)"/>
 </p>
+
 ---
 
 ## 🌐 How to Reach Me
