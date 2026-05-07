@@ -3,7 +3,11 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer  • Backend (Java) Learner • AI/ML and Devops Enthusiast • Tech Explorer </h3>
 
 <p align="center">
-    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://images.openai.com/static-rsc-4/1yEjcNwK4nAjZegYcS8xtrioDmS-jgwespMzyCX0Eh9dHfX39P6G1xIGHmOCBxM8jEBnGNmJtIFPKGMd_GqH3k7RwMrML1FTly7i5vIRf5kaXk6a3W8duF4xBL2XGvygYLVdEy5VYxiYSkz9zC_YCXLiDzCLTmvhyWroh6Ap298wOVaE_-0XEnS9XPUL16_I?purpose=fullsize)"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%26+REST+API+Builder;Gen+AI+Developer;SQL+%26+Database+Explorer;DevOps+Enthusiast;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+  <img src="./assets/sakshigithubimage.png" width="250" style="border-radius:50%" />
 </p>
 
 ---
