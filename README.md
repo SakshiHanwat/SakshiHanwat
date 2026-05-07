@@ -9,6 +9,7 @@
 <p align="center">
   <img src="./assests/sakshigithubimage.png" width="100%" />
 </p>
+
 ---
 
 ## 🌐 How to Reach Me
@@ -121,6 +122,8 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SakshiHanwat&theme=chartreuse_dark" />
 </p>
+
+
 ---
 
 ### 📈 Contribution Activity
