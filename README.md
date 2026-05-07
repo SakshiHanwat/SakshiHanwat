@@ -120,7 +120,7 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshiHanwat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=palakkhare02&theme=react-dark"/>
 </p>
 
 ---
