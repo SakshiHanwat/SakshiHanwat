@@ -119,6 +119,9 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakshiHanwat&theme=radical" height="180" alt="Top Languages by Commit"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SakshiHanwat&theme=github_dark" />
+</p>
 ---
 
 ### 📈 Contribution Activity
