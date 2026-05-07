@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/sakshigithubimage.png" width="250" style="border-radius:50%" />
+  <img src="./assets/sakshigithubimage.png" width="100%" />
 </p>
 
 ---
