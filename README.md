@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%26+REST+API+Builder;Gen+AI+Developer;SQL+%26+Database+Explorer;DevOps+Enthusiast;Building+Real+World+Projects" />
 </p>
 
-<p align="center">
-  <img src="./assets/sakshigithubimage.png" width="100%" />
-</p>
+![Uploading image.png…]()
 
 ---
 
