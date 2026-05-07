@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.kriew0jplAPX4t197LZOxQHaHa?cb=ucfimg2&ucfimg=1&w=626&h=626&rs=1&pid=ImgDetMain&o=7&rm=3" width="550" alt="coding animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SakshiHanwat&theme=chartreuse_dark" />
 </p>
 
 ---
