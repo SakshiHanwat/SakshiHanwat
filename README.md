@@ -120,7 +120,7 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SakshiHanwat&show_icons=true&locale=en" alt="dipanita45" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshiHanwat&show_icons=true&locale=en" alt="SakshiHanwat" />
 </p>
 
 ---
