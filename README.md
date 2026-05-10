@@ -119,7 +119,9 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakshiHanwat&theme=radical" height="180" alt="Top Languages by Commit"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanita45&show_icons=true&locale=en" alt="dipanita45" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SakshiHanwat&show_icons=true&locale=en" alt="dipanita45" />
+</p>
 
 ---
 
