@@ -120,7 +120,7 @@ Currently focused on **Java Backend Development + DSA**, while also having a str
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshiHanwat&show_icons=true&theme=tokyonight&count_private=true" alt="Sakshi's GitHub Stats" />
+  [![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiHanwat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
